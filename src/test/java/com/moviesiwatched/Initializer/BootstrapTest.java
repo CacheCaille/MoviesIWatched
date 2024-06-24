@@ -1,6 +1,5 @@
 package com.moviesiwatched.Initializer;
 
-import com.moviesiwatched.Repository.MoviesRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
